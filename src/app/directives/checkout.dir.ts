@@ -25,7 +25,7 @@ import { CompanyDetailsModel } from '../model/companydetails.model';
         <div class="card-body">
         <div class="row">
           <div class="col-md-6 text-left">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSGhNugPi-wkkvEePwHNppt8AaZRlUk-y9yEapagLNUaXxy_G" class="logo mr-2 mb-4 float-left"/>
+          <img src="" class="logo mr-2 mb-4 float-left"/>
           </div>
           <div class="col-md-6 text-right">
           <h4># INV-{{invoiceNo}}</h4>
